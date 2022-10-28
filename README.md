@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Melange.
+![Github stats](https://github-readme-stats.vercel.app/api?username=senseisimple&count_private=true&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senseisimple&layout=compact&langs_count=8&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **senseisimple/senseisimple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
